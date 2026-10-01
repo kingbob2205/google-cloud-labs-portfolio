@@ -4,9 +4,9 @@
 
 I use this repository to document the Google Cloud services I practiced in guided labs and the architecture decisions I learned to make. My focus is connecting technical choices to requirements: secure connectivity, reliable deployments, appropriate data stores, and manageable operations.
 
-[Explore the 34 recorded lab activities](LABS.md) · [Read architecture decision notes](ARCHITECTURE_NOTES.md)
+[Explore 22 verified lab completions](LABS.md#verified-completions) · [Read architecture decision notes](ARCHITECTURE_NOTES.md)
 
-> **Portfolio scope:** These are guided lab activities reconstructed from my study notes. They are not 34 independent projects, and the list is not a record of 34 earned Skill Badges. Some activities were partial or were not marked as passed by the lab platform. The certification is separate from these labs.
+> **Portfolio scope:** My Google Skills history shows 47 attempts across 34 distinct labs. Google Skills marks 22 distinct labs as **Passed**; each has its own page and a screenshot of the activity record. The other 12 are listed separately as practice attempts. These are guided labs, not 34 independent projects or 22 earned Skill Badges. The Professional Cloud Architect certification is separate from the labs.
 
 ## What I practiced
 
@@ -32,8 +32,9 @@ The [architecture notes](ARCHITECTURE_NOTES.md) show examples of this reasoning 
 
 ## Evidence and next steps
 
-- **Available now:** a categorized [lab activity index](LABS.md) and original architecture decision notes.
-- **Not available yet:** the original lab environments, deployment code, screenshots, and independently reproducible builds.
-- **Next portfolio milestone:** build two small original projects with source code, diagrams, deployment and cleanup steps, test evidence, and cost boundaries. Those will be clearly labeled and linked here once actually built.
+- **Verified now:** [22 individual lab pages](LABS.md#verified-completions), each with a Google Skills progress screenshot showing the Passed marker, recorded score, and date.
+- **Also documented:** [12 additional practice labs](LABS.md#additional-practice-attempts) that Google Skills does not mark as passed, plus original [architecture notes](ARCHITECTURE_NOTES.md).
+- **Not claimed:** original deployment code, live lab environments, independently reproducible projects, or Skill Badges for these activities.
+- **Next portfolio milestone:** build two original, reproducible mini-projects with source code, architecture diagrams, deployment and cleanup steps, tests, and cost boundaries.
 
 No exam dumps, paid course questions, third-party lab instructions, credentials, or cloud project identifiers are included in this repository.
